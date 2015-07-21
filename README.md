@@ -1,2 +1,3 @@
 # ReOpen-Toolkit 
-Some tools Kawa used during the creation of OpenPoké
+Some tools [Kawa][1] used during the creation of OpenPoké
+  [1]: http://helmet.kafuka.org
